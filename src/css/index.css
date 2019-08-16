@@ -1,0 +1,15 @@
+body{
+	background:gray;
+	
+
+}
+
+.imgs{
+	background-image:url(../images/baidu.png);
+	width: 150px;
+	height: 90px;
+}
+
+.test1{
+	background:red
+}
